@@ -1,0 +1,1 @@
+data.raw["utility-constants"]["default"]["zoom_to_world_can_use_nightvision"] = true
